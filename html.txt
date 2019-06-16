@@ -1,0 +1,17 @@
+<html><head>
+<title>ºÐÇÒ</title></head>
+<frameset rows="20%, 80%"
+frameborder="0">
+<frame src="top.html"
+name="top" scrolling="no"
+noresize>
+<frameset cols="20%, 80%
+frameborder="0">
+<frame src="left.html"
+name="left" scrolling="no"
+noresize>
+<frame src="right.html"
+name="right" scrolling="auto"
+noresize>
+</frameset></frameset>
+</html>
